@@ -1,0 +1,13 @@
+{
+  "name": "belenusweb",
+  "description": "Paquete del frontend para el proyecto belenusWeb.",
+  "main": "",
+  "authors": [
+    "Alex Rodrigo Gonzalez Tamayo"
+  ],
+  "license": "MIT",
+  "homepage": "belenusWeb",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
